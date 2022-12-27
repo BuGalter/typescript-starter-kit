@@ -28,31 +28,9 @@ $npm install
 
 In the project directory, you can run:
 
-### `npm start`
+### `npm start:dev`
 
 ### `npm run build`
-
-## Generating documentation
-
-To generate documentation for the project, the developer should navigate to the project
-folder and run the following command in the terminal.
-
-In the terminal run:
-
-```shell
-$npm run doc
-```
-
-After the documentation has been successfully generated, a new `docs` folder appears.
-The developer should navigate to the `docs` folder and open the index.html in their browser.
-
-## Testing
-
-In the terminal run:
-
-```shell
-$npm run test
-```
 
 ## CHANGELOG HISTORY
 

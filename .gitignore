@@ -29,5 +29,3 @@ build/
 
 # tsbuildinfo dir
 buildcache/
-
-package-lock.json
